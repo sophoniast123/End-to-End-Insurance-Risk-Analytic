@@ -1,4 +1,4 @@
 [core]
     remote = localstore
 ['remote "localstore"']
-    url = ../ C:/Users/ZAK-TECH/Documents/dvc file
+    url = C:\Users\ZAK-TECH\Documents\dvc_file
