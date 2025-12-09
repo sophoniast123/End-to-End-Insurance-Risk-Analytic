@@ -1,0 +1,8 @@
+stages:
+  process:
+    cmd: python notebook/process.py
+    deps:
+      - notebook/process.py
+      - data/MachineLearningRating_v3.txt
+    outs:
+      - data/processed_data.txt
